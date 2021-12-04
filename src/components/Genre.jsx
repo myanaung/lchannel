@@ -13,9 +13,10 @@ const Genre = ({ movies, api, done , handleClicked  , clickedVideo , video , tex
         <div>
           <div className="popular-title">{text}</div>
           <CardStyle apiImage={api} movies={movies} media={`Movie`} video={video} handleClicked={handleClicked} clickedVideo={clickedVideo}/>
-          <div className="pagination-container">
-            <Pagination count={10} variant="outlined" shape="rounded" />
-          </div>
+          <div className="creator-section">
+        <div>&copy;2021.All rights reserved.</div>
+        <div>Created By Nyan Lin Tun</div>
+      </div>
         </div>
       )}
     </div>
