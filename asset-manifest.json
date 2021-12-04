@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/lchannel/static/css/main.369f2427.chunk.css",
-    "main.js": "/lchannel/static/js/main.f59c39ac.chunk.js",
-    "main.js.map": "/lchannel/static/js/main.f59c39ac.chunk.js.map",
-    "runtime-main.js": "/lchannel/static/js/runtime-main.814decf0.js",
-    "runtime-main.js.map": "/lchannel/static/js/runtime-main.814decf0.js.map",
+    "main.css": "/lchannel/static/css/main.2024045c.chunk.css",
+    "main.js": "/lchannel/static/js/main.6e8133a9.chunk.js",
+    "main.js.map": "/lchannel/static/js/main.6e8133a9.chunk.js.map",
+    "runtime-main.js": "/lchannel/static/js/runtime-main.92194f36.js",
+    "runtime-main.js.map": "/lchannel/static/js/runtime-main.92194f36.js.map",
     "static/css/2.4d819a42.chunk.css": "/lchannel/static/css/2.4d819a42.chunk.css",
-    "static/js/2.d0e68372.chunk.js": "/lchannel/static/js/2.d0e68372.chunk.js",
-    "static/js/2.d0e68372.chunk.js.map": "/lchannel/static/js/2.d0e68372.chunk.js.map",
-    "static/js/3.c2e91610.chunk.js": "/lchannel/static/js/3.c2e91610.chunk.js",
-    "static/js/3.c2e91610.chunk.js.map": "/lchannel/static/js/3.c2e91610.chunk.js.map",
+    "static/js/2.cdf518b8.chunk.js": "/lchannel/static/js/2.cdf518b8.chunk.js",
+    "static/js/2.cdf518b8.chunk.js.map": "/lchannel/static/js/2.cdf518b8.chunk.js.map",
+    "static/js/3.8ab27133.chunk.js": "/lchannel/static/js/3.8ab27133.chunk.js",
+    "static/js/3.8ab27133.chunk.js.map": "/lchannel/static/js/3.8ab27133.chunk.js.map",
     "index.html": "/lchannel/index.html",
     "static/css/2.4d819a42.chunk.css.map": "/lchannel/static/css/2.4d819a42.chunk.css.map",
-    "static/css/main.369f2427.chunk.css.map": "/lchannel/static/css/main.369f2427.chunk.css.map",
-    "static/js/2.d0e68372.chunk.js.LICENSE.txt": "/lchannel/static/js/2.d0e68372.chunk.js.LICENSE.txt",
+    "static/css/main.2024045c.chunk.css.map": "/lchannel/static/css/main.2024045c.chunk.css.map",
+    "static/js/2.cdf518b8.chunk.js.LICENSE.txt": "/lchannel/static/js/2.cdf518b8.chunk.js.LICENSE.txt",
     "static/media/2.2244db60.png": "/lchannel/static/media/2.2244db60.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.814decf0.js",
+    "static/js/runtime-main.92194f36.js",
     "static/css/2.4d819a42.chunk.css",
-    "static/js/2.d0e68372.chunk.js",
-    "static/css/main.369f2427.chunk.css",
-    "static/js/main.f59c39ac.chunk.js"
+    "static/js/2.cdf518b8.chunk.js",
+    "static/css/main.2024045c.chunk.css",
+    "static/js/main.6e8133a9.chunk.js"
   ]
 }
