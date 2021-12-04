@@ -9,7 +9,7 @@ const IconNav = ({ homeIconClicked, handleHomeClicked }) => {
     <>
      <ul className="navbar-nav">
       <li className="nav-item">
-        <Link to="/" className="nav-link home-link">
+        <Link to="/lchannel" className="nav-link home-link">
           <AiOutlineHome className="homeIcon"/>
         </Link>
         <Link to="/trending" className="nav-link trending-link">
