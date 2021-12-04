@@ -138,7 +138,7 @@ const App = () => {
       />
       <Routes>
         <Route
-          path="//*"
+          path="/lchannel/*"
           element={
             <Slider
               done={movieDone}
